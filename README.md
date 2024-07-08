@@ -58,6 +58,8 @@ All discourse, papers, eth research posts, blogs and talks around current day et
 
 [On block-space distribution mechanisms - Ethereum Research](https://ethresear.ch/t/on-block-space-distribution-mechanisms/19764) - Post by Mike Neuder, June 2024
 
+[EIP-7732: Enshrined Proposer-Builder Separation](https://eips.ethereum.org/EIPS/eip-7732) EIP by Francesco D’Amato et al, June 2024
+
 [Fork Choice Attacks and Protections in EPBS - Ethereum Research](https://ethresear.ch/t/fork-choice-attacks-and-protections-in-epbs/19951) - Post by Terrence, July 2024
 
 ## PEPC
