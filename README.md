@@ -131,6 +131,8 @@ Trying to place discourse, papers, eth research posts, blogs and talks around cu
 
 [PEEPanEIP#130 :EIP-7547:Inclusion lists with Mike, Terence, Francesco(https://www.youtube.com/watch?v=oRjG0RMnK5U) -  Youtube, April 2024
 
+[Uncrowdable Inclusion Lists: The Tension between Chain Neutrality, Preconfirmations and Proposer Commitments](https://ethresear.ch/t/uncrowdable-inclusion-lists-the-tension-between-chain-neutrality-preconfirmations-and-proposer-commitments/19372) - Post by Julian Ma et al, April 2024 
+
 [One-bit-per-attester inclusion lists - Ethereum Research](https://ethresear.ch/t/one-bit-per-attester-inclusion-lists/19797) - Post by Vitalik, Jun 2024
 
 [Dont Overload the Proposer ](https://streameth.org/zuberlin/watch?session=666af08807f92b086c2c2e54) - - Talk by Vitalik, Jun 2024
